@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "高浩翔 / 个人网站"
+title                    : "高浩翔（Hamilton.X.Garcia） ｜ 个人网站"
 title_separator          : "-"
 name                     : &name "高浩翔"
 description              : &description "personal description"
