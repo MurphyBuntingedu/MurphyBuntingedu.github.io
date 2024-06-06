@@ -21,7 +21,7 @@ repository               : "MurphyBuntingedu/MurphyBuntingedu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PersonalPicture.JPG"
+  avatar           : "PersonalPicture.PNG"
   name             : "高浩翔"
   pronouns         : # example: "she/her"  
   bio              : "全栈开发工程师、人文艺术 站在人文与艺术的交点看世界"
