@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![illustration of robotics]（/images/robotics.png）{: .align-right width="300px"}
+![Illustration of robotics]（/images/robotics.png）{: .align-right width="300px"}
 📚中国地质大学（武汉）自动化专业学生
 
 🔬研究方向是机器人与人工智能
